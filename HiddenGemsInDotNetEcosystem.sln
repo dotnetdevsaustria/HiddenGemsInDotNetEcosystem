@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaywrightDemo", "Playwrigh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utf8JsonDemo", "Utf8Json\Utf8JsonDemo.csproj", "{E59B8B82-7441-4AF6-B5D9-875F62041E36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanizerDemo", "HumanizerDemo\HumanizerDemo.csproj", "{3598F7DF-0D02-4719-9D52-4FD466264594}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,18 @@ Global
 		{E59B8B82-7441-4AF6-B5D9-875F62041E36}.Release|x64.Build.0 = Release|Any CPU
 		{E59B8B82-7441-4AF6-B5D9-875F62041E36}.Release|x86.ActiveCfg = Release|Any CPU
 		{E59B8B82-7441-4AF6-B5D9-875F62041E36}.Release|x86.Build.0 = Release|Any CPU
+		{3598F7DF-0D02-4719-9D52-4FD466264594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3598F7DF-0D02-4719-9D52-4FD466264594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3598F7DF-0D02-4719-9D52-4FD466264594}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3598F7DF-0D02-4719-9D52-4FD466264594}.Debug|x64.Build.0 = Debug|Any CPU
+		{3598F7DF-0D02-4719-9D52-4FD466264594}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3598F7DF-0D02-4719-9D52-4FD466264594}.Debug|x86.Build.0 = Debug|Any CPU
+		{3598F7DF-0D02-4719-9D52-4FD466264594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3598F7DF-0D02-4719-9D52-4FD466264594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3598F7DF-0D02-4719-9D52-4FD466264594}.Release|x64.ActiveCfg = Release|Any CPU
+		{3598F7DF-0D02-4719-9D52-4FD466264594}.Release|x64.Build.0 = Release|Any CPU
+		{3598F7DF-0D02-4719-9D52-4FD466264594}.Release|x86.ActiveCfg = Release|Any CPU
+		{3598F7DF-0D02-4719-9D52-4FD466264594}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
