@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpFunctionalExtensionsD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvHelperDemo", "CsvHelperDemo\CsvHelperDemo.csproj", "{0D7B2955-26A6-4D1E-A1E1-301B580D06B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosedXmlDemo", "ClosedXmlDemo\ClosedXmlDemo.csproj", "{66E7B287-8834-4489-A56E-0ED9BC15114C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,18 @@ Global
 		{0D7B2955-26A6-4D1E-A1E1-301B580D06B5}.Release|x64.Build.0 = Release|Any CPU
 		{0D7B2955-26A6-4D1E-A1E1-301B580D06B5}.Release|x86.ActiveCfg = Release|Any CPU
 		{0D7B2955-26A6-4D1E-A1E1-301B580D06B5}.Release|x86.Build.0 = Release|Any CPU
+		{66E7B287-8834-4489-A56E-0ED9BC15114C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E7B287-8834-4489-A56E-0ED9BC15114C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E7B287-8834-4489-A56E-0ED9BC15114C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{66E7B287-8834-4489-A56E-0ED9BC15114C}.Debug|x64.Build.0 = Debug|Any CPU
+		{66E7B287-8834-4489-A56E-0ED9BC15114C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{66E7B287-8834-4489-A56E-0ED9BC15114C}.Debug|x86.Build.0 = Debug|Any CPU
+		{66E7B287-8834-4489-A56E-0ED9BC15114C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E7B287-8834-4489-A56E-0ED9BC15114C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E7B287-8834-4489-A56E-0ED9BC15114C}.Release|x64.ActiveCfg = Release|Any CPU
+		{66E7B287-8834-4489-A56E-0ED9BC15114C}.Release|x64.Build.0 = Release|Any CPU
+		{66E7B287-8834-4489-A56E-0ED9BC15114C}.Release|x86.ActiveCfg = Release|Any CPU
+		{66E7B287-8834-4489-A56E-0ED9BC15114C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
