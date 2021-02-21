@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanizerDemo", "HumanizerD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopShelfDemo", "TopShelfDemo\TopShelfDemo.csproj", "{DCEA88BE-6818-4F96-A4F2-604E2EFB465E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuarzDemo", "QuarzDemo\QuarzDemo.csproj", "{4794272B-653D-46DB-B3A3-56C9FD6289A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,18 @@ Global
 		{DCEA88BE-6818-4F96-A4F2-604E2EFB465E}.Release|x64.Build.0 = Release|Any CPU
 		{DCEA88BE-6818-4F96-A4F2-604E2EFB465E}.Release|x86.ActiveCfg = Release|Any CPU
 		{DCEA88BE-6818-4F96-A4F2-604E2EFB465E}.Release|x86.Build.0 = Release|Any CPU
+		{4794272B-653D-46DB-B3A3-56C9FD6289A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4794272B-653D-46DB-B3A3-56C9FD6289A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4794272B-653D-46DB-B3A3-56C9FD6289A9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4794272B-653D-46DB-B3A3-56C9FD6289A9}.Debug|x64.Build.0 = Debug|Any CPU
+		{4794272B-653D-46DB-B3A3-56C9FD6289A9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4794272B-653D-46DB-B3A3-56C9FD6289A9}.Debug|x86.Build.0 = Debug|Any CPU
+		{4794272B-653D-46DB-B3A3-56C9FD6289A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4794272B-653D-46DB-B3A3-56C9FD6289A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4794272B-653D-46DB-B3A3-56C9FD6289A9}.Release|x64.ActiveCfg = Release|Any CPU
+		{4794272B-653D-46DB-B3A3-56C9FD6289A9}.Release|x64.Build.0 = Release|Any CPU
+		{4794272B-653D-46DB-B3A3-56C9FD6289A9}.Release|x86.ActiveCfg = Release|Any CPU
+		{4794272B-653D-46DB-B3A3-56C9FD6289A9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
